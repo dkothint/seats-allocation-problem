@@ -161,7 +161,7 @@ public class InputGenerator {
 	private int getWeightedRandomNo(int[] weights, int totalWeight){
 		int randomNo = -1;
 		int random = ThreadLocalRandom.current().nextInt(1, totalWeight + 1);
-		System.out.println(" rn : "+random);
+		
 		for (int i = 0; i < weights.length; i++)
 		{
 		    random -= weights[i];
@@ -171,7 +171,7 @@ public class InputGenerator {
 		        break;
 		    }
 		}
-		System.out.println("returning : "+(randomNo+1));
+		
 		return randomNo + 1;
 	}
 
