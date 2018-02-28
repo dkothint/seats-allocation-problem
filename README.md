@@ -67,4 +67,4 @@ Weighted Inputs:
 Summary of result analysis: 
 - Optimized algorithm clearly outperforms linear one in terms of resource utilization
 - As inputs become more realistic, optimized algorithm starts to outperform linear one in terms of effectiveness as well
-- 8 / 25 cases remained neutral
+- 8 / 25 cases remained neutral 
