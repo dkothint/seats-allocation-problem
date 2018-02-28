@@ -1,4 +1,4 @@
-﻿# walmartlabs
+﻿# Seats-allocation-problem
 
 Overview:
 Problem Statement: Given an input file with a set of reservations, and a seat matrix representing a theater, implement a solution for seat allocation with a goal to maximize both customer satisfaction and theater utilization.
